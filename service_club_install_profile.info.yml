@@ -1,0 +1,7 @@
+name: Service Club Install Profile
+type: profile
+description: 'Provide site features and functions by downloading specified features'
+core: 8.x
+
+distribution:
+  name: 'Service Club Install Profile Distribution'
