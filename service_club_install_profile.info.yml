@@ -5,3 +5,21 @@ core: 8.x
 
 distribution:
   name: 'Service Club Install Profile Distribution'
+
+dependencies:
+  - address
+  - address_map_link
+  - admin_toolbar
+  - Calender
+  - CTools
+  - dynamic_entity_reference
+  - front_page
+  - Geolocation
+  - image
+  - mailsystem
+  - Pathauto
+  - profile
+  - Redirect
+  - scheduler
+  - simplify
+  - Token
