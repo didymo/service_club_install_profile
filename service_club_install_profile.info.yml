@@ -8,18 +8,18 @@ distribution:
 
 dependencies:
   - address
-  - address_map_link
   - admin_toolbar
-  - Calender
-  - CTools
+  - calender
+  - ctools
   - dynamic_entity_reference
   - front_page
-  - Geolocation
+  - geocoder
+  - geolocation
   - image
   - mailsystem
-  - Pathauto
+  - pathauto
   - profile
-  - Redirect
+  - redirect
   - scheduler
   - simplify
-  - Token
+  - token
