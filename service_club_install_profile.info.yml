@@ -9,7 +9,7 @@ distribution:
 dependencies:
   - address
   - admin_toolbar
-  - calender
+  - calendar
   - ctools
   - dynamic_entity_reference
   - front_page
