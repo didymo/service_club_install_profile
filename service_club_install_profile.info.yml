@@ -9,22 +9,61 @@ distribution:
 dependencies:
   - address
   - admin_toolbar
+  - automated_cron
+  - big_pipe
+  - block
+  - block_content
+  - breakpoint
   - calendar
+  - ckeditor
+  - color
+  - comment
   - contact
+  - config
+  - contact
+  - contextual
   - ctools
+  - datetime
+  - dblog
   - dynamic_entity_reference
+  - dynamic_page_cache
+  - editor
+  - field
+  - field_ui
+  - file
+  - filter
   - front_page
   - geocoder
   - geolocation
+  - help
+  - history
   - image
+  - quickedit
+  - link
   - mailsystem
+  - menu_link_content
+  - menu_ui
+  - node
+  - options
+  - page_cache
+  - path
   - pathauto
   - profile
+  - rdf
   - redirect
   - scheduler
+  - search
   - shortcut
   - simplify
+  - system
+  - taxonomy
+  - text
   - token
+  - toolbar
+  - tour
+  - user
+  - views
+  - views_ui
 
 themes:
   - bartik
