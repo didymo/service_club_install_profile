@@ -10,6 +10,7 @@ dependencies:
   - address
   - admin_toolbar
   - calendar
+  - contact
   - ctools
   - dynamic_entity_reference
   - front_page
