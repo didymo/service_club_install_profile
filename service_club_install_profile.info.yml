@@ -25,3 +25,6 @@ dependencies:
   - shortcut
   - simplify
   - token
+
+themes:
+  - bartik
