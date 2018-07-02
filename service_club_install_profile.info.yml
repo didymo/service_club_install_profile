@@ -22,5 +22,6 @@ dependencies:
   - profile
   - redirect
   - scheduler
+  - shortcut
   - simplify
   - token
