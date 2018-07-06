@@ -10,6 +10,7 @@ dependencies:
   - address
   - admin_toolbar
   - automated_cron
+  - basic_auth
   - big_pipe
   - block
   - block_content
@@ -35,6 +36,7 @@ dependencies:
   - front_page
   - geocoder
   - geolocation
+  - hal
   - help
   - history
   - image
@@ -51,8 +53,11 @@ dependencies:
   - profile
   - rdf
   - redirect
+  - rest
+  - restui
   - scheduler
   - search
+  - serialization
   - shortcut
   - simplify
   - system
