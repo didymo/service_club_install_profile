@@ -16,7 +16,6 @@ dependencies:
   - breakpoint
   - calendar
   - ckeditor
-  - contact
   - config
   - contextual
   - ctools
