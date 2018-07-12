@@ -9,7 +9,6 @@ distribution:
 dependencies:
   - address
   - admin_toolbar
-  - automated_cron
   - basic_auth
   - big_pipe
   - block
@@ -17,11 +16,8 @@ dependencies:
   - breakpoint
   - calendar
   - ckeditor
-  - color
-  - comment
   - contact
   - config
-  - contact
   - contextual
   - ctools
   - datetime
@@ -37,8 +33,6 @@ dependencies:
   - geocoder
   - geolocation
   - hal
-  - help
-  - history
   - image
   - quickedit
   - link
@@ -65,7 +59,6 @@ dependencies:
   - text
   - token
   - toolbar
-  - tour
   - user
   - views
   - views_ui
