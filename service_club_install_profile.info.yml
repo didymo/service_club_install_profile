@@ -54,7 +54,6 @@ dependencies:
   - service_club_asset
   - service_club_event
   - service_club_profile
-  - service_club_tmp
   - shortcut
   - simplify
   - system
