@@ -51,9 +51,6 @@ dependencies:
   - scheduler
   - search
   - serialization
-  - service_club_asset
-  - service_club_event
-  - service_club_profile
   - shortcut
   - simplify
   - system
