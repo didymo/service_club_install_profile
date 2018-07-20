@@ -71,5 +71,6 @@ dependencies:
   - views_ui
 
 themes:
+  - service_club_theme
   - bartik
   - seven
