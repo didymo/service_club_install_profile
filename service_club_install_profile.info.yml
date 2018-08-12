@@ -42,6 +42,7 @@ dependencies:
   - image
   - quickedit
   - link
+  - mail_login
   - mailsystem
   - menu_link_content
   - menu_ui
