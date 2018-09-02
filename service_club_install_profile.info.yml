@@ -35,6 +35,7 @@ dependencies:
   - filter
   - front_page
   - geocoder
+  - geofield
   - geolocation
   - hal
   - help
