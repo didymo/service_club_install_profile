@@ -42,6 +42,10 @@ dependencies:
   - history
   - image
   - quickedit
+  - jwt
+  - jwt_auth_consumer
+  - jwt_auth_issuer
+  - key
   - link
   - mail_login
   - mailsystem
