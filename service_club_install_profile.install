@@ -19,4 +19,6 @@ function service_club_install_profile_install() {
 
   // Add code here to make nodes, terms, etc.
   \Drupal::configFactory()->getEditable('user.settings')->set('register', 'admin_only')->save();
+  \Drupal::configFactory()->getEditable('jwt.config')->set('algorithm', 'HS512')->save();
+  \Drupal::configFactory()->getEditable('jwt.config')->set('key_id', 'jwtkey')->save();
 }
