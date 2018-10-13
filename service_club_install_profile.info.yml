@@ -35,13 +35,19 @@ dependencies:
   - filter
   - front_page
   - geocoder
+  - geofield
   - geolocation
   - hal
   - help
   - history
   - image
   - quickedit
+  - jwt
+  - jwt_auth_consumer
+  - jwt_auth_issuer
+  - key
   - link
+  - mail_login
   - mailsystem
   - menu_link_content
   - menu_ui
@@ -58,6 +64,8 @@ dependencies:
   - scheduler
   - search
   - serialization
+  - service_club_asset
+  - service_club_event
   - shortcut
   - simplify
   - system
@@ -68,8 +76,10 @@ dependencies:
   - tour
   - user
   - views
+  - views_conditional
   - views_ui
 
 themes:
+  - service_club_theme
   - bartik
   - seven
