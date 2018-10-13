@@ -66,6 +66,7 @@ dependencies:
   - serialization
   - service_club_asset
   - service_club_event
+  - service_blub_profile
   - shortcut
   - simplify
   - system
