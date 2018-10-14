@@ -7,8 +7,6 @@ distribution:
   name: 'Service Club Install Profile Distribution'
 
 dependencies:
-  - address
-  - admin_toolbar
   - automated_cron
   - basic_auth
   - big_pipe
@@ -17,7 +15,6 @@ dependencies:
   - breakpoint
   - calendar
   - ckeditor
-  - color
   - comment
   - contact
   - config
@@ -34,9 +31,6 @@ dependencies:
   - file
   - filter
   - front_page
-  - geocoder
-  - geofield
-  - geolocation
   - hal
   - help
   - history
@@ -66,7 +60,7 @@ dependencies:
   - serialization
   - service_club_asset
   - service_club_event
-  - service_blub_profile
+  - service_club_profile
   - shortcut
   - simplify
   - system
@@ -74,7 +68,6 @@ dependencies:
   - text
   - token
   - toolbar
-  - tour
   - user
   - views
   - views_conditional
